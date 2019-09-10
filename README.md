@@ -1,4 +1,4 @@
-# Gunshot-Detection-using-Audio
+# Gunshot-Detection-in-Audio
  Deep learning model is implemented using TensorFlow 2.0 to detect Gunshots. 97.5% testing set accuracy and 99% training set accuracy was achieved using TensorFlow 2.0. 
 
 ## Project Includes

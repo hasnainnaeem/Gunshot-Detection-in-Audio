@@ -1,5 +1,6 @@
 # Gunshot-Detection-in-Audio
 **Note:** Code for RNN model & audio synthesis is not opensourced yet.
+
 Audio classification using deep learning implemented using TensorFlow 2.0 to detect Gunshots. 97.5% test set accuracy and 
 99% training set accuracy was achieved on Binary-Urban8K. This work was done during my summer internship at TUKL-NUST lab.
 Due to proper preprocessing & feature extraction, a simple CNN model is used to achieve promising results. 
